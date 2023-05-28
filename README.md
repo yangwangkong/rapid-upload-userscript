@@ -1,3 +1,5 @@
+# 由于外部原因，项目停止维护
+
 # rapid-upload-userscript
 
 > 秒传链接提取脚本, 使用typescript + webpack重构
