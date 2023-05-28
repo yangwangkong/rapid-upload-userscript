@@ -1,4 +1,4 @@
-# 由于外部原因，项目停止维护
+# 由于外部原因，项目永久停止维护
 
 # rapid-upload-userscript
 
